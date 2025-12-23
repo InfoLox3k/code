@@ -1,8 +1,8 @@
 В данно репозитории представлены:
 
-код для esp8266 в файле esp_code.ino
+- код для esp8266 в файле esp_code.ino
 
-код для Arduino Nano в файле arduino_code.ino
+- код для Arduino Nano в файле arduino_code.ino
 
 
 оптимизация кода и написание комментариев в нём были выполнены при помощи нейросети DeepSeek.
